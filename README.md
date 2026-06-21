@@ -6,7 +6,7 @@ Sistem Informasi berbasis web yang membantu mahasiswa menemukan beasiswa yang pa
 
 ## 👥 Tim Pengembang
 
-| Nama | NIM |
+| Nama | NPM |
 |------|-----|
 | Fawwaz Ziyadi Ilmi | 2408107010021 |
 | Rahmatul Uliya | 2408107010012 |
